@@ -1,0 +1,3 @@
+include ':appbaseprime'
+include ':app'
+rootProject.name = "App Base Classic"
